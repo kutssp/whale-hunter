@@ -10,7 +10,7 @@ MVP: на бесплатных API (CoinGecko, DexScreener, Covalent) выявл
     pip install requests pandas
 
 Запуск:
-    python whale_watch_free.py
+    python whale_hunter.py
 
 Выход:
  - CSV: whale_candidates.csv
